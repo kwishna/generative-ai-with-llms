@@ -1,0 +1,2 @@
+L2 - aws s3 cp --recursive s3://dlai-generative-ai/labs/w2-170864/ ./
+L3 - aws s3 cp --recursive s3://dlai-generative-ai/labs/w3-233794/ ./
